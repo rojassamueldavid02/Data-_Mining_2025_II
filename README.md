@@ -1,4 +1,6 @@
-# Data-_Mining_2025_II
+# Data_Mining_2025_II
+
+Este es el repositorio en el que se podrán descargar los recursos que se brindarán a lo largo del curso
 
 #Course Marterials
 
